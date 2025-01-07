@@ -1,0 +1,81 @@
+@font-face {
+  font-family: 'CustomFont';
+  src: url('./assets/BeautiqueDisplay-Regular.woff2') format('woff2'),
+       url('./assets/BeautiqueDisplay-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'CustomFont', sans-serif;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: linear-gradient(45deg, #0F1340, #4B4696);
+}
+
+.card-container {
+  position: relative;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.card {
+  position: relative;
+  width: 350px;
+  height: 525px;
+}
+
+.card-image {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 160px;
+  font-size: 40px; 
+  color: #FCEA27;
+  font-weight: bold;
+  text-align: center;
+  font-size: 28px;
+}
+
+.title-text {
+  position: absolute;
+  top: -80px;
+  font-size: 40px;
+  font-weight: bold;
+  color: #FCEA27;
+  text-align: center;
+  width: 100%;
+  font-family: 'CustomFont', sans-serif;
+}
+
+.description-text {
+  position: absolute;
+  width: 80%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 24px;
+  text-align: center;
+  color: #fff;
+  font-family: 'CustomFont', sans-serif;
+  font-weight: bold;
+}
+
+.actions {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.action-button {
+  z-index: 1000;
+  width: 70px;
+  height: 70px;
+  cursor: pointer;
+}
