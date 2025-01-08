@@ -1,220 +1,3370 @@
 [
-  { "title": "Truth", "description": "What is the most romantic thing you've thought about me?" },
-  { "title": "Truth", "description": "If you could dedicate a song to me, which one would it be and why?" },
-  { "title": "Dare", "description": "Write a short poem about how you feel about me." },
-  { "title": "Dare", "description": "Look into my eyes and tell me something you've been wanting to say but haven't yet." },
-  { "title": "Truth", "description": "What do you think is my most attractive quality?" },
-  { "title": "Truth", "description": "What was the moment you realized you liked me?" },
-  { "title": "Dare", "description": "Draw a picture of me and show it to me." },
-  { "title": "Dare", "description": "Say three things you love about me, but whisper them in my ear." },
-  { "title": "Truth", "description": "What is a little thing I do that makes you feel special?" },
-  { "title": "Truth", "description": "What is one thing you want to learn about me that you don't know yet?" },
-  { "title": "Dare", "description": "Hold my hand and tell me how I make you feel loved." },
-  { "title": "Dare", "description": "Pretend to ask me out on our first date again." },
-  { "title": "Truth", "description": "What is a nickname you would love to call me?" },
-  { "title": "Truth", "description": "What do you think makes our relationship special?" },
-  { "title": "Dare", "description": "Give me a compliment in the most creative way you can think of." },
-  { "title": "Dare", "description": "Draw a heart on my hand and tell me why you love me." },
-  { "title": "Truth", "description": "What is one moment with me you will never forget?" },
-  { "title": "Truth", "description": "What do you think makes me unique?" },
-  { "title": "Dare", "description": "Write a sweet message to me on a piece of paper and give it to me." },
-  { "title": "Dare", "description": "Share a secret you've been waiting to tell me." },
-  { "title": "Truth", "description": "If you could take me anywhere right now, where would it be?" },
-  { "title": "Truth", "description": "What is one thing about me that always makes you smile?" },
-  { "title": "Dare", "description": "Pretend we are meeting for the first time and introduce yourself to me." },
-  { "title": "Dare", "description": "Write 'I ❤️ You' on my palm using your finger." },
-  { "title": "Truth", "description": "What is one thing you are most excited about in our future together?" },
-  { "title": "Truth", "description": "What is your favorite thing about my personality?" },
-  { "title": "Dare", "description": "Share your favorite photo of us and explain why you love it." },
-  { "title": "Dare", "description": "Act out your favorite romantic movie scene with me." },
-  { "title": "Truth", "description": "What is one thing you secretly admire about me?" },
-  { "title": "Truth", "description": "If you could relive one moment with me, which one would it be and why?" },
-  { "title": "Dare", "description": "Sing a romantic song and dedicate it to me." },
-  { "title": "Dare", "description": "Draw a symbol that represents us as a couple." },
-  { "title": "Truth", "description": "What is something you want to do with me that we haven't done yet?" },
-  { "title": "Truth", "description": "What do you think is our most memorable moment together?" },
-  { "title": "Dare", "description": "Whisper a compliment in my ear and make me blush." },
-  { "title": "Dare", "description": "Describe how you feel about me using only gestures." },
-  { "title": "Truth", "description": "If you could surprise me with something romantic, what would it be?" },
-  { "title": "Truth", "description": "What is your favorite thing about how I look?" },
-  { "title": "Dare", "description": "Write a love note and leave it where I can find it later." },
-  { "title": "Dare", "description": "Describe your favorite memory of us while looking into my eyes." },
-  { "title": "Truth", "description": "What is your favorite season and why?" },
-  { "title": "Truth", "description": "What is your favorite food?" },
-  { "title": "Dare", "description": "Kiss me on the forehead." },
-  { "title": "Dare", "description": "Write me a love letter." },
-  { "title": "Truth", "description": "What is your biggest fear?" },
-  { "title": "Dare", "description": "Make your funniest monkey face." },
-  { "title": "Dare", "description": "Bite into a lemon slice" },
-  { "title": "Truth", "description": "Give your partner a romantic foot massage or back rub." },
-  { "title": "Truth", "description": "Slow dance to a romantic song in the middle of the room." },
-  { "title": "Truth", "description": "Write down three things you love and appreciate about your partner and share them." },
-  { "title": "Truth", "description": "Cook a romantic meal together, trying out a new recipe or favorite dish." },
-  { "title": "Truth", "description": "Write and exchange love vows or promises to each other." },
-  { "title": "Truth", "description": "Write a love note or message on a small piece of paper and hide it somewhere your partner will find it unexpectedly." },
-  { "title": "Truth", "description": "Whisper three heartfelt compliments into your partner’s ear." },
-  { "title": "Truth", "description": "Take a moment to slow dance together to a romantic song, even if it’s just for a few minutes." },
-  { "title": "Truth", "description": "Look deeply into your partner’s eyes and tell them three things you adore about them." },
-  { "title": "Truth", "description": "Hold hands and take a romantic walk together, even if it’s just around the block." },
-  { "title": "Dare", "description": "Let me post a photo of my choice to your Instagram story." },
-  { "title": "Dare", "description": "Talk in an accent for the rest of the night." },
-  { "title": "Dare", "description": "Do your best celebrity impression." },
-  { "title": "Dare", "description": "Let me do your makeup/style your hair." },
-  { "title": "Dare", "description": "Screenshot your browser history" },
-  { "title": "Dare", "description": "Take a ridiculous selfie with me and set it as your profile picture." },
-  { "title": "Truth", "description": "What gives you the 'ick'?" },
-  { "title": "Truth", "description": "What was the last thing you Googled?" },
-  { "title": "Truth", "description": "Who was your first celebrity crush?" },
-  { "title": "Truth", "description": "What's the most unique thing you've ever eaten?" },
-  { "title": "Truth", "description": "If you had to be on a reality show, which would it be?" },
-  { "title": "Truth", "description": "What was your worst first date?" },
-  { "title": "Truth", "description": "What animal do you think most closely resembles me?" },
-  { "title": "Truth", "description": "Which is your favorite of my friends?" },
-  { "title": "Truth", "description": "What embarrassing fashion trend did you take part in?" },
-  { "title": "Truth", "description": "What's the most embarrassing movie that you consider to be one of your faves?" },
-  { "title": "Truth", "description": "What was the most embarrassing song on your Spotify Wrapped last year?" },
-  { "title": "Truth", "description": "What's the worst gift you've ever received?" },
-  { "title": "Truth", "description": "What's your most unexpected red flag?" },
-  { "title": "Truth", "description": "What's one thing you only do when you're alone?" },
-  { "title": "Truth", "description": "What's one thing you wish people/I knew about you?" },
-  { "title": "Truth", "description": "What crime would you commit if you knew you'd never get caught?" },
-  { "title": "Truth", "description": "What's your biggest regret?" },
-  { "title": "Truth", "description": "What was the best day of your life?" },
-  { "title": "Truth", "description": "What was the worst day of your life?" },
-  { "title": "Truth", "description": "What is your favorite thing about my intelligence?" },
-  { "title": "Truth", "description": "What is your favorite thing about my sense of adventure?" },
-  { "title": "Dare", "description": "Tell me a story about a time when you felt happy with me." },
-  { "title": "Dare", "description": "Give me a compliment in a whisper." },
-  { "title": "Truth", "description": "What is your favorite thing about my sense of humor?" },
-  { "title": "Truth", "description": "What is your favorite thing about my honesty?" },
-  { "title": "Dare", "description": "Tell me a story about a time when you felt proud of me." },
-  { "title": "Dare", "description": "Give me a back massage." },
-  { "title": "Truth", "description": "What's the silliest thing you've done to try to impress me?" },
-  { "title": "Truth", "description": "If I asked you to make a funny face for me, would you do it?" },
-  { "title": "Dare", "description": "Do a funny dance and make me laugh." },
-  { "title": "Dare", "description": "Talk in a silly voice for the next 5 minutes." },
-  { "title": "Truth", "description": "If we were stuck on a deserted island, what would be the first thing you'd do to entertain me?" },
-  { "title": "Truth", "description": "What’s the funniest thing you've ever imagined doing with me?" },
-  { "title": "Dare", "description": "Pretend you're a cat and do your best cat impression for 1 minute." },
-  { "title": "Dare", "description": "Do your best impersonation of me!" },
-  { "title": "Truth", "description": "If we were in a movie, what genre would it be and why?" },
-  { "title": "Truth", "description": "What’s your idea of the most fun date night with me?" },
-  { "title": "Dare", "description": "Give me a piggyback ride around the room." },
-  { "title": "Dare", "description": "Try to serenade me with a song of your choice, but change the lyrics to be funny!" },
-  { "title": "Truth", "description": "What’s the most awkward thing that’s ever happened to you while trying to flirt?" },
-  { "title": "Truth", "description": "If we went on a road trip, what would be the first snack you'd buy for us?" },
-  { "title": "Dare", "description": "Make up a funny backstory for how we met, and tell me about it." },
-  { "title": "Dare", "description": "Do your best impression of an animal trying to flirt." },
-  { "title": "Truth", "description": "If I gave you a superhero power for a day, what would it be and how would you use it for mischief?" },
-  { "title": "Truth", "description": "What’s your guilty pleasure that you think I’d find hilarious?" },
-  { "title": "Dare", "description": "Send me a funny video or meme that reminds you of me." },
-  { "title": "Dare", "description": "Do your best runway walk and strike a pose like you're a model." },
-  { "title": "Truth", "description": "What’s one embarrassing thing you hope I never find out about you?" },
-  { "title": "Truth", "description": "Would you ever send me a silly, completely random text just to make me smile?" },
-  { "title": "Dare", "description": "Do 10 jumping jacks while trying to make me laugh." },
-  { "title": "Dare", "description": "Act like you're giving me a motivational speech to convince me to do something silly." },
-  { "title": "Truth", "description": "What’s the most awkward thing you’ve done in front of me?" },
-  { "title": "Truth", "description": "If you could describe your personality in three emojis, what would they be?" },
-  { "title": "Dare", "description": "Pretend you're a chef and describe your favorite meal to me in a dramatic, funny way." },
-  { "title": "Dare", "description": "Send me a silly voice note singing your favorite song with your own twist." },
-  { "title": "Truth", "description": "What's your most embarrassing nickname?" },
-  { "title": "Truth", "description": "If you were a character in a romantic comedy, what kind of character would you be?" },
-  { "title": "Dare", "description": "Do a dramatic reading of a random text you received today." },
-  { "title": "Dare", "description": "Imitate your favorite celebrity but make them act like they're in love with me!" },
-  { "title": "Dare", "description": "Act like you're proposing to me, but in a totally ridiculous way." },
-  { "title": "Truth", "description": "What’s the most embarrassing thing you have ever done to try to get someone's attention?" },
-  { "title": "Dare", "description": "Pretend you're a love guru and give me some hilarious relationship advice." },
-  { "title": "Truth", "description": "What’s the worst pick-up line you’ve ever used or heard?" },
-  { "title": "Dare", "description": "Pretend to be a clumsy waiter serving me the worst meal ever." },
-  { "title": "Truth", "description": "If I were an animal, which one would I be and why?" },
-  { "title": "Dare", "description": "Do your best impression of a cute animal trying to flirt with me." },
-  { "title": "Truth", "description": "What’s something silly or embarrassing you secretly enjoy doing?" },
-  { "title": "Dare", "description": "Send me a voice message pretending to be a love-struck character from a cheesy romance movie." },
-  { "title": "Truth", "description": "What’s your secret talent that you think would make me laugh?" },
-  { "title": "Dare", "description": "Pretend you're a super spy and whisper a secret mission you're on—just for me." },
-  { "title": "Truth", "description": "What’s the most ridiculous thing you've done to impress someone?" },
-  { "title": "Dare", "description": "Do your best dance move to an imaginary beat and act like you're on stage at a concert." },
-  { "title": "Truth", "description": "What’s one thing that makes you instantly think of me?" },
-  { "title": "Dare", "description": "Pretend you're a superhero with a hilarious power and try to save me from a disaster." },
-  { "title": "Truth", "description": "What's the funniest thing you’ve thought about me when you saw me?" },
-  { "title": "Dare", "description": "Do a dramatic reading of your last text message like it’s a Shakespearean monologue." },
-  { "title": "Truth", "description": "What's the strangest thing you've ever done on a date?" },
-  { "title": "Dare", "description": "Send me a picture of your current outfit, but pretend you're a famous fashion designer giving a runway show." },
-  { "title": "Truth", "description": "What's something totally random you do when you're alone?" },
-  { "title": "Dare", "description": "Pretend you're a stand-up comedian and do your best joke about love." },
-  { "title": "Truth", "description": "If you could be any character from a romantic movie, who would you be and why?" },
-  { "title": "Dare", "description": "Give me a compliment using only ridiculous words and make it sound serious." },
-  { "title": "Truth", "description": "What’s something you’ve done on a date that you now cringe about?" },
-  { "title": "Dare", "description": "Pretend to be a fortune teller and give me a funny reading of my future." },
-  { "title": "Truth", "description": "What’s the most embarrassing thing you’ve ever done in front of someone you liked?" },
-  { "title": "Dare", "description": "Give me your best impression of a celebrity giving me relationship advice." },
-  { "title": "Truth", "description": "If we were in a love story, how would it end?" },
-  { "title": "Dare", "description": "Do your best impression of a romantic proposal, but make it totally over the top." },
-  { "title": "Dare", "description": "Pretend you're my personal hype man/woman and cheer me up with the most ridiculous words of encouragement." },
-  { "title": "Truth", "description": "What’s your guilty pleasure when it comes to romantic comedies?" },
-  { "title": "Dare", "description": "Do your best impression of a love-struck character from a soap opera." },
-  { "title": "Truth", "description": "If we were characters in a romance novel, what would our chapter be called?" },
-  { "title": "Dare", "description": "Pretend you're a romantic poet and serenade me with a dramatic love declaration." },
-  { "title": "Truth", "description": "What’s the most unexpected thing you’ve ever done for love?" },
-  { "title": "Dare", "description": "Pretend to be a dramatic Broadway singer and sing me a love song like you're in a musical." },
-  { "title": "Truth", "description": "What’s one thing that always makes you think of me when we’re apart?" },
-  { "title": "Dare", "description": "Do your best impression of a puppy trying to impress me." },
-  { "title": "Truth", "description": "What’s something that instantly makes you smile when you see it, that reminds you of me?" },
-  { "title": "Dare", "description": "Pretend you're an old-timey lover and send me a romantic telegram." },
-  { "title": "Truth", "description": "What’s the most ridiculous thing you’ve ever done just to impress someone?" },
-  { "title": "Dare", "description": "Do a funny impression of me and act like you're my biggest fan." },
-  { "title": "Truth", "description": "What’s your idea of a perfect surprise date for us?" },
-  { "title": "Dare", "description": "Act like you're a puppy and show me how you'd greet me if I were just walking in the door." },
-  { "title": "Truth", "description": "If we were in a rom-com, who would play us in the movie?" },
-  { "title": "Dare", "description": "Give me a compliment using only words that rhyme with 'love'." },
-  { "title": "Truth", "description": "What’s the funniest or most embarrassing thing you’ve done to get someone's attention?" },
-  { "title": "Dare", "description": "Pretend you’re a magician and perform a romantic 'disappearing act' to win my heart." },
-  { "title": "Truth", "description": "If I were a fruit, which one do you think I’d be and why?" },
-  { "title": "Dare", "description": "Do a funny dance as if you're trying to impress me on a date." },
-  { "title": "Truth", "description": "What’s something you’ve always wanted to try with me, but haven’t yet?" },
-  { "title": "Dare", "description": "Pretend to be a chef and make a delicious 'romantic' dish for me using only silly ingredients." },
-  { "title": "Truth", "description": "What’s the cheesiest thing you've ever done for love?" },
-  { "title": "Dare", "description": "Pretend you're an overly enthusiastic tour guide, and show me around our imaginary romantic getaway." },
-  { "title": "Truth", "description": "What’s your favorite way to show affection, but in a silly or unusual way?" },
-  { "title": "Dare", "description": "Pretend you’re an awkward robot trying to express love for the first time." },
-  { "title": "Truth", "description": "What’s the most ridiculous pick-up line you've heard or used?" },
-  { "title": "Dare", "description": "Pretend you're a love-struck detective trying to solve the mystery of how you fell for me." },
-  { "title": "Truth", "description": "What’s one thing about me that always makes you laugh?" },
-  { "title": "Dare", "description": "Pretend you're giving me a motivational speech about why I'm the most amazing person in the world." },
-  { "title": "Truth", "description": "If you could switch places with anyone for a day, who would it be and why?" },
-  { "title": "Dare", "description": "Imitate a love-struck character from a soap opera and declare your undying love for me in the most dramatic way possible." },
-  { "title": "Truth", "description": "What’s the most outrageous thing you've imagined us doing together?" },
-  { "title": "Truth", "description": "What's one thing about me that you find irresistible?" },
-  { "title": "Truth", "description": "If you could describe our relationship in one word, what would it be?" },
-  { "title": "Dare", "description": "Reenact the first time we met, but make it exaggerated and funny." },
-  { "title": "Dare", "description": "Act like you're a famous chef and describe a dish you do cook for us on a romantic date." },
-  { "title": "Truth", "description": "What’s the most romantic thing you think we should do together?" },
-  { "title": "Truth", "description": "What’s a silly habit I have that makes you smile?" },
-  { "title": "Dare", "description": "Pretend to be a tour guide showing me around the world’s most romantic places." },
-  { "title": "Dare", "description": "Do a dramatic reading of a text message you've received, as though its a monologue." },
-  { "title": "Truth", "description": "If you could take me on a surprise adventure, where would we go?" },
-  { "title": "Truth", "description": "What’s the first thing that comes to your mind when you think of me?" },
-  { "title": "Dare", "description": "Pretend you’re a magician and perform a love spell for me." },
-  { "title": "Dare", "description": "Send me a voice note singing a song, but change the lyrics to be about us." },
-  { "title": "Truth", "description": "What’s something you’ve always wanted to say to me but haven’t yet?" },
-  { "title": "Truth", "description": "If we could be any fictional couple, who would we be and why?" },
-  { "title": "Dare", "description": "Send me a message as if you were a character from our favorite movie." },
-  { "title": "Dare", "description": "Write a short love poem using only three words to describe how you feel about me." },
-  { "title": "Truth", "description": "What’s a song that always reminds you of me?" },
-  { "title": "Truth", "description": "If we could live anywhere in the world, where would you want to go?" },
-  { "title": "Dare", "description": "Do an impression of a famous romantic character telling me how much they love me." },
-  { "title": "Dare", "description": "Create a secret handshake for us and show me how to do it." },
-  { "title": "Truth", "description": "If you could change one thing about the way we met, what would it be?" },
-  { "title": "Truth", "description": "What’s something you’ve learned from being in this relationship?" },
-  { "title": "Dare", "description": "Pretend to be an old-timey poet and recite a sonnet about me." },
-  { "title": "Dare", "description": "Create a funny story about how we met and exaggerate all the details." },
-  { "title": "Truth", "description": "What’s a trait of mine that you admire the most?" },
-  { "title": "Truth", "description": "If we were in a rom-com, what scene would you want us to recreate?" },
-  { "title": "Dare", "description": "Describe our first kiss in the most dramatic way possible." },
-  { "title": "Dare", "description": "Tell me a funny story about something embarrassing that happened to you recently." },
-  { "title": "Truth", "description": "What’s the most thoughtful gift you think you could give me?" },
-  { "title": "Truth", "description": "What’s your favorite memory of us together so far?" },
-  { "title": "Dare", "description": "Do your best imitation of a romantic movie scene with me." },
-  { "title": "Dare", "description": "Take a silly selfie with me and make it your phone’s wallpaper." },
-  { "title": "Truth", "description": "If you had to sum up our relationship in one sentence, what would you say?" }
-  ]
+  {
+    "title": "Dare",
+    "description": "Slap the person to your left on the booty"
+  },
+  {
+    "title": "Truth",
+    "description": "If you could be any character from a romantic movie, who would you be and why?"
+  },
+  {
+    "title": "Truth",
+    "description": "If we were stuck on a deserted island, what would be the first thing you'd do to entertain me?"
+  },
+  {
+    "title": "Truth",
+    "description": "If you were trapped on an island for 3 days, what would you take with you?"
+  },
+  {
+    "title": "Dare",
+    "description": "Take a selfie with the toilet and post it online"
+  },
+  {
+    "title": "Dare",
+    "description": "Go grab a broom and do your best tango"
+  },
+  {
+    "title": "Dare",
+    "description": "I dare you to Stand up for 2 turns"
+  },
+  {
+    "title": "Dare",
+    "description": "Run in place or the next three rounds"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the most annoying thing that one of your siblings has done?"
+  },
+  {
+    "title": "Truth",
+    "description": "What do you think is your biggest physical flaw?"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever stolen anything?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favorite thing about my intelligence?"
+  },
+  {
+    "title": "Dare",
+    "description": "Blindfolded, let someone tie you to a chair and give you a lapdance"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever worn the same clothes for more than three days?"
+  },
+  {
+    "title": "Dare",
+    "description": "Describe your favorite memory of us while looking into my eyes."
+  },
+  {
+    "title": "Truth",
+    "description": "Is the dress Black and Blue or Gold and White?"
+  },
+  {
+    "title": "Dare",
+    "description": "Do your best dance move to an imaginary beat and act like you're on stage at a concert."
+  },
+  {
+    "title": "Truth",
+    "description": "What don't you want anyone in this group to ask you? (Be sure to keep it in mind for future rounds!)"
+  },
+  {
+    "title": "Dare",
+    "description": "Try to lick your elbow"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favorite food?"
+  },
+  {
+    "title": "Dare",
+    "description": "Sing 'Twinkle Twinkle, Little Star' while beat boxing"
+  },
+  {
+    "title": "Dare",
+    "description": "Create a funny story about how we met and exaggerate all the details."
+  },
+  {
+    "title": "Truth",
+    "description": "If you could dedicate a song to me, which one would it be and why?"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s the most ridiculous thing you\u2019ve ever done just to impress someone?"
+  },
+  {
+    "title": "Truth",
+    "description": "Can you speak a different language?"
+  },
+  {
+    "title": "Dare",
+    "description": "Take and ice cube and run it up and down your partner\u2019s body until it is melted"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever climbed a tree?"
+  },
+  {
+    "title": "Truth",
+    "description": "If you could be any animal, which one would you be?"
+  },
+  {
+    "title": "Truth",
+    "description": "Do you like a lot of foreplay?"
+  },
+  {
+    "title": "Truth",
+    "description": "Can you use a pogo stick?"
+  },
+  {
+    "title": "Dare",
+    "description": "Everything you say for the rest of the game has to rhyme."
+  },
+  {
+    "title": "Truth",
+    "description": "If we went on a road trip, what would be the first snack you'd buy for us?"
+  },
+  {
+    "title": "Truth",
+    "description": "What's your ex-girlfriend/boyfriend name?"
+  },
+  {
+    "title": "Truth",
+    "description": "What's the strangest thing you've ever done on a date?"
+  },
+  {
+    "title": "Truth",
+    "description": "Would you ever cheat off a friend's paper?"
+  },
+  {
+    "title": "Truth",
+    "description": "What's the most embarrassing movie that you consider to be one of your faves?"
+  },
+  {
+    "title": "Truth",
+    "description": "What's one thing you only do when you're alone?"
+  },
+  {
+    "title": "Truth",
+    "description": "Write down three things you love and appreciate about your partner and share them."
+  },
+  {
+    "title": "Truth",
+    "description": "Take a moment to slow dance together to a romantic song, even if it\u2019s just for a few minutes."
+  },
+  {
+    "title": "Truth",
+    "description": "What is the craziest thing that you have ever done without your parents knowing?"
+  },
+  {
+    "title": "Dare",
+    "description": "Dance like a ballerina"
+  },
+  {
+    "title": "Dare",
+    "description": "Close your eyes and send a blind text to a random person"
+  },
+  {
+    "title": "Truth",
+    "description": "Describe your worst date ever?"
+  },
+  {
+    "title": "Truth",
+    "description": "If you could kiss a celebrity without it impacting your current relationship, who would it be?"
+  },
+  {
+    "title": "Dare",
+    "description": "Give me a piggyback ride around the room."
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite food?"
+  },
+  {
+    "title": "Dare",
+    "description": "Call someone random, and talk freaky to them"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the most annoying thing that your roommate has ever done?"
+  },
+  {
+    "title": "Dare",
+    "description": "With clothes on (for now) top your partner and start riding"
+  },
+  {
+    "title": "Dare",
+    "description": "Try to tickle yourself"
+  },
+  {
+    "title": "Truth",
+    "description": "Cook a romantic meal together, trying out a new recipe or favorite dish."
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s something that instantly makes you smile when you see it, that reminds you of me?"
+  },
+  {
+    "title": "Dare",
+    "description": "Break dance"
+  },
+  {
+    "title": "Truth",
+    "description": "Describe the weirdest dream you've ever had?"
+  },
+  {
+    "title": "Truth",
+    "description": "If there was no such thing as money, what would you do with your life?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your best talent?"
+  },
+  {
+    "title": "Truth",
+    "description": "If you could change one thing about the way we met, what would it be?"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever lied to your parents about what you were doingafter school?"
+  },
+  {
+    "title": "Dare",
+    "description": "Ask your crush out on a date"
+  },
+  {
+    "title": "Dare",
+    "description": "Paint your toenails only using your teeth"
+  },
+  {
+    "title": "Dare",
+    "description": "Do your best impression of a puppy trying to impress me."
+  },
+  {
+    "title": "Truth",
+    "description": "What celebrity are you obsessed with?"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s your guilty pleasure when it comes to romantic comedies?"
+  },
+  {
+    "title": "Dare",
+    "description": "Prank call a local restaurant and order one of everything onthe menu"
+  },
+  {
+    "title": "Dare",
+    "description": "Make your funniest monkey face."
+  },
+  {
+    "title": "Dare",
+    "description": "Do a funny dance as if you're trying to impress me on a date."
+  },
+  {
+    "title": "Dare",
+    "description": "Make out with someone\u2019s boyfriend or girlfriend"
+  },
+  {
+    "title": "Truth",
+    "description": "What is a little thing I do that makes you feel special?"
+  },
+  {
+    "title": "Truth",
+    "description": "How many brothers and sisters do you have?"
+  },
+  {
+    "title": "Dare",
+    "description": "Share your favorite photo of us and explain why you love it."
+  },
+  {
+    "title": "Truth",
+    "description": "What would make you lie for your friend?"
+  },
+  {
+    "title": "Dare",
+    "description": "Pretend you're giving me a motivational speech about why I'm the most amazing person in the world."
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite animal?"
+  },
+  {
+    "title": "Truth",
+    "description": "If you could describe our relationship in one word, what would it be?"
+  },
+  {
+    "title": "Dare",
+    "description": "Exchange shirts with the person next to you for the next round of questions."
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s the most embarrassing thing you\u2019ve ever done in front of someone you liked?"
+  },
+  {
+    "title": "Truth",
+    "description": "How old were you when you had your first kiss?"
+  },
+  {
+    "title": "Truth",
+    "description": "Would you ever want to get a stripper pole for our room?"
+  },
+  {
+    "title": "Dare",
+    "description": "Make a headdress out of toilet paper and pose for photos."
+  },
+  {
+    "title": "Dare",
+    "description": "Act like you're proposing to me, but in a totally ridiculous way."
+  },
+  {
+    "title": "Truth",
+    "description": "If you were a billionaire, what would you spend your time doing?"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s one thing that always makes you think of me when we\u2019re apart?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite kind of clothing?"
+  },
+  {
+    "title": "Truth",
+    "description": "What personality traits would cause you to end a friendship?"
+  },
+  {
+    "title": "Truth",
+    "description": "How many kids would you like to have?"
+  },
+  {
+    "title": "Dare",
+    "description": "Act like the family pet until it is your turn again"
+  },
+  {
+    "title": "Dare",
+    "description": "Do your best impersonation of me!"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s something you\u2019ve always wanted to say to me but haven\u2019t yet?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your dream job?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your pet\u2019s name?"
+  },
+  {
+    "title": "Dare",
+    "description": "Send me a funny video or meme that reminds you of me."
+  },
+  {
+    "title": "Truth",
+    "description": "Are you scared of dying? Why?"
+  },
+  {
+    "title": "Dare",
+    "description": "Act like a pig until it is your turn again"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you done role-playing?"
+  },
+  {
+    "title": "Truth",
+    "description": "If we were in a movie, what genre would it be and why?"
+  },
+  {
+    "title": "Dare",
+    "description": "Floss the teeth of the person to your left"
+  },
+  {
+    "title": "Truth",
+    "description": "What college do you plan on going to?"
+  },
+  {
+    "title": "Dare",
+    "description": "Do an impression of someone until another player can guess who you are"
+  },
+  {
+    "title": "Dare",
+    "description": "I dare you to do a headstand for 2 mins"
+  },
+  {
+    "title": "Dare",
+    "description": "Take a selfie with a broom and post it on all of your socialmedia"
+  },
+  {
+    "title": "Truth",
+    "description": "What's the worst gift you've ever received?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the earliest you have ever started drinking in the day?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your biggest fear in a relationship?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the funniest dream that you have ever had?"
+  },
+  {
+    "title": "Dare",
+    "description": "Do your best hula dance"
+  },
+  {
+    "title": "Dare",
+    "description": "Do your best impression of a love-struck character from a soap opera."
+  },
+  {
+    "title": "Truth",
+    "description": "What was the worst day of your life?"
+  },
+  {
+    "title": "Dare",
+    "description": "Act like a statue until it is your turn again (no talking or moving)"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s something you\u2019ve learned from being in this relationship?"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s the most embarrassing thing you have ever done to try to get someone's attention?"
+  },
+  {
+    "title": "Dare",
+    "description": "Go a whole minute without blinking"
+  },
+  {
+    "title": "Truth",
+    "description": "Tell 5 secrets of yours?"
+  },
+  {
+    "title": "Dare",
+    "description": "Do the silliest dance that you can think of"
+  },
+  {
+    "title": "Dare",
+    "description": "Balance a spoon on your nose until the next round"
+  },
+  {
+    "title": "Dare",
+    "description": "Give person to your left a kiss on the forehead"
+  },
+  {
+    "title": "Dare",
+    "description": "Pretend that you're swimming underwater for the next three rounds of questions. Don't forget to make bubbling noises and come up for air from time to time."
+  },
+  {
+    "title": "Truth",
+    "description": "What is something you want to do with me that we haven't done yet?"
+  },
+  {
+    "title": "Dare",
+    "description": "Do a dramatic reading of a text message you've received, as though its a monologue."
+  },
+  {
+    "title": "Dare",
+    "description": "Record yourself doing the silliest dance you can do, and post it to Facebook"
+  },
+  {
+    "title": "Dare",
+    "description": "Unwrap a piece of candy in your mouth"
+  },
+  {
+    "title": "Dare",
+    "description": "Draw a heart on my hand and tell me why you love me."
+  },
+  {
+    "title": "Truth",
+    "description": "Describe what you would like me to do to you."
+  },
+  {
+    "title": "Dare",
+    "description": "Act like you do not understand your own language until your next turn (come up with your own language)"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite thing to do on the weekends?"
+  },
+  {
+    "title": "Truth",
+    "description": "If you had to be on a reality show, which would it be?"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever had a crush on anyone here?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your least favourite frat on campus?"
+  },
+  {
+    "title": "Dare",
+    "description": "Wearing only high heels do a strip dance for the group"
+  },
+  {
+    "title": "Truth",
+    "description": "If you could own your own business one day, what would it be?"
+  },
+  {
+    "title": "Truth",
+    "description": "Do you prefer to be on top or bottom?"
+  },
+  {
+    "title": "Dare",
+    "description": "Take a silly selfie with me and make it your phone\u2019s wallpaper."
+  },
+  {
+    "title": "Dare",
+    "description": "Go grab a broom and do your best tango"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite pair of my underwear?"
+  },
+  {
+    "title": "Dare",
+    "description": "Sing \u201cTwinkle Twinkle, Little Star\u201d while beat boxing"
+  },
+  {
+    "title": "Truth",
+    "description": "Who in your family tells the corniest jokes?"
+  },
+  {
+    "title": "Truth",
+    "description": "Who is the most annoying person you know?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite childhood song?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite holiday and why?"
+  },
+  {
+    "title": "Truth",
+    "description": "Wrap yourself up in toilet paper and take a picture."
+  },
+  {
+    "title": "Dare",
+    "description": "Act like you're giving me a motivational speech to convince me to do something silly."
+  },
+  {
+    "title": "Truth",
+    "description": "Would you ever want to go to a swingers party?"
+  },
+  {
+    "title": "Dare",
+    "description": "Put the socks of the person to your right in your mouth"
+  },
+  {
+    "title": "Dare",
+    "description": "Make a poem using the words orange and moose"
+  },
+  {
+    "title": "Dare",
+    "description": "Sing a romantic song and dedicate it to me."
+  },
+  {
+    "title": "Truth",
+    "description": "What's the dumbest thing you've ever done on a dare?"
+  },
+  {
+    "title": "Dare",
+    "description": "Pretend you're a love guru and give me some hilarious relationship advice."
+  },
+  {
+    "title": "Dare",
+    "description": "Pretend you're a super spy and whisper a secret mission you're on\u2014just for me."
+  },
+  {
+    "title": "Dare",
+    "description": "Imitate your favorite celebrity but make them act like they're in love with me!"
+  },
+  {
+    "title": "Dare",
+    "description": "Blindfolded, spin around 10 times and walk down the street and back"
+  },
+  {
+    "title": "Truth",
+    "description": "Who is your favourite porn star?"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever faked an orgasim with me?"
+  },
+  {
+    "title": "Truth",
+    "description": "What's the silliest thing you've done to try to impress me?"
+  },
+  {
+    "title": "Dare",
+    "description": "Do 10 jumping jacks, and then do 10 pushups"
+  },
+  {
+    "title": "Truth",
+    "description": "Do you prefer for your partner to be silent, or do you like moans?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is one embarrassing fact I should know about you?"
+  },
+  {
+    "title": "Dare",
+    "description": "Give the person to your left a wet willy"
+  },
+  {
+    "title": "Dare",
+    "description": "Give a 3 minute stand-up comedy routine"
+  },
+  {
+    "title": "Dare",
+    "description": "Kiss a pillow until it is your turn again"
+  },
+  {
+    "title": "Dare",
+    "description": "Do your best celebrity impression."
+  },
+  {
+    "title": "Dare",
+    "description": "Give a concert with your air guitar"
+  },
+  {
+    "title": "Dare",
+    "description": "With no bottoms, sit on your partner\u2019s man piece until the next round"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the longest you have gone without sleep?"
+  },
+  {
+    "title": "Dare",
+    "description": "Do an impression of your most annoying teacher"
+  },
+  {
+    "title": "Dare",
+    "description": "Act like your favourite Disney character for the rest of the game"
+  },
+  {
+    "title": "Dare",
+    "description": "Act like your favourite Disney character for the rest of the game"
+  },
+  {
+    "title": "Dare",
+    "description": "Take a shower fully clothed"
+  },
+  {
+    "title": "Truth",
+    "description": "Describe something about your date?"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever watched an adult film without your parents knowing?"
+  },
+  {
+    "title": "Truth",
+    "description": "Do you like to exercise?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your guilty pleasure?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the longest you\u2019ve gone without sex?"
+  },
+  {
+    "title": "Dare",
+    "description": "Pretend that you are an airplane for 2 minutes"
+  },
+  {
+    "title": "Dare",
+    "description": "Pound on your chest and act like a gorilla for the next minute"
+  },
+  {
+    "title": "Dare",
+    "description": "Let me post a photo of my choice to your Instagram story."
+  },
+  {
+    "title": "Dare",
+    "description": "Give a 3 minute stand-up comedy routine"
+  },
+  {
+    "title": "Truth",
+    "description": "Do you like it rough or soft?"
+  },
+  {
+    "title": "Dare",
+    "description": "Exchange shirts with the person next to you"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever told a lie during a game of Truth or Dare? What was it and why?"
+  },
+  {
+    "title": "Truth",
+    "description": "What country would like to live in if you had the chance?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the capital of the state that you live in?"
+  },
+  {
+    "title": "Dare",
+    "description": "With no bottoms, spoon your partner until the next round"
+  },
+  {
+    "title": "Truth",
+    "description": "Give your partner a romantic foot massage or back rub."
+  },
+  {
+    "title": "Dare",
+    "description": "Take off your partner\u2019s bra (or nearest woman\u2019s) using only your teeth"
+  },
+  {
+    "title": "Truth",
+    "description": "If you were a character in a romantic comedy, what kind of character would you be?"
+  },
+  {
+    "title": "Truth",
+    "description": "Say 5 bad habits you have?"
+  },
+  {
+    "title": "Dare",
+    "description": "Kiss me on the forehead."
+  },
+  {
+    "title": "Dare",
+    "description": "Send me a silly voice note singing your favorite song with your own twist."
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favorite thing about my honesty?"
+  },
+  {
+    "title": "Dare",
+    "description": "Pretend to be a tour guide showing me around the world\u2019s most romantic places."
+  },
+  {
+    "title": "Dare",
+    "description": "Spin around for 10 seconds and run out the mailbox and back"
+  },
+  {
+    "title": "Dare",
+    "description": "Twerk while in a split"
+  },
+  {
+    "title": "Truth",
+    "description": "If you could dye your hair any colour, what colour would you pick?"
+  },
+  {
+    "title": "Truth",
+    "description": "Would you ever cook naked for me?"
+  },
+  {
+    "title": "Truth",
+    "description": "What would you do with a million dollars if you ever won the lottery?"
+  },
+  {
+    "title": "Dare",
+    "description": "Do your best president impression"
+  },
+  {
+    "title": "Dare",
+    "description": "Say the alphabet backwards in a British accent."
+  },
+  {
+    "title": "Dare",
+    "description": "Sit upside down in a chair until your next turn"
+  },
+  {
+    "title": "Dare",
+    "description": "Draw a picture of me and show it to me."
+  },
+  {
+    "title": "Truth",
+    "description": "How many boyfriends (or girlfriends) have you had?"
+  },
+  {
+    "title": "Dare",
+    "description": "Do your best impression of a cute animal trying to flirt with me."
+  },
+  {
+    "title": "Dare",
+    "description": "Take a selfie with the toilet and post it online"
+  },
+  {
+    "title": "Dare",
+    "description": "Sing everything you say for the next 10 minutes"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite cartoon from your generation?"
+  },
+  {
+    "title": "Truth",
+    "description": "What would you do if your parents left the house to you for a whole week?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favorite season and why?"
+  },
+  {
+    "title": "Dare",
+    "description": "Using only your elbows, make a Facebook status and post it"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever taken money from a freshman?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your dream wedding?"
+  },
+  {
+    "title": "Dare",
+    "description": "Do your best hip hop dance"
+  },
+  {
+    "title": "Truth",
+    "description": "Who is the most annoying person you know?"
+  },
+  {
+    "title": "Truth",
+    "description": "What would you do with a million dollars if you ever won the lottery?"
+  },
+  {
+    "title": "Truth",
+    "description": "What's your most embarrassing nickname?"
+  },
+  {
+    "title": "Truth",
+    "description": "Describe your worst kiss ever?"
+  },
+  {
+    "title": "Truth",
+    "description": "Would you ever send me a silly, completely random text just to make me smile?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the silliest thing you have an emotional attachment to?"
+  },
+  {
+    "title": "Dare",
+    "description": "Do a funny dance and make me laugh."
+  },
+  {
+    "title": "Dare",
+    "description": "Do your best impression of Mickey Mouse"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s your guilty pleasure that you think I\u2019d find hilarious?"
+  },
+  {
+    "title": "Dare",
+    "description": "If there is a pet at the event, try to hold the pet for the rest of the night."
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite thing to do after school?"
+  },
+  {
+    "title": "Dare",
+    "description": "Pretend you're a superhero with a hilarious power and try to save me from a disaster."
+  },
+  {
+    "title": "Truth",
+    "description": "Could you go a week without junk food?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite vegetable?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the longest time you have ever been grounded?"
+  },
+  {
+    "title": "Dare",
+    "description": "Pretend to be a waiter or waitress and take snack orders from everyone in the group. Bring them the food they ordered and then check back to see if they like it."
+  },
+  {
+    "title": "Dare",
+    "description": "Put makeup on with no mirror"
+  },
+  {
+    "title": "Truth",
+    "description": "Describe your dream home"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s one embarrassing thing you hope I never find out about you?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite TV show?"
+  },
+  {
+    "title": "Dare",
+    "description": "Wear a pair of your partner\u2019s underwear"
+  },
+  {
+    "title": "Dare",
+    "description": "Say the alphabet backwards in 15 seconds"
+  },
+  {
+    "title": "Dare",
+    "description": "Tickle the person to your right"
+  },
+  {
+    "title": "Dare",
+    "description": "Give me a back massage."
+  },
+  {
+    "title": "Truth",
+    "description": "If we were characters in a romance novel, what would our chapter be called?"
+  },
+  {
+    "title": "Truth",
+    "description": "Describe your worst kiss ever?"
+  },
+  {
+    "title": "Dare",
+    "description": "Do your best impression of an animal trying to flirt."
+  },
+  {
+    "title": "Dare",
+    "description": "Put your leg behind you head"
+  },
+  {
+    "title": "Truth",
+    "description": "What's you favorite Disney movie and why?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite type of foreplay?"
+  },
+  {
+    "title": "Truth",
+    "description": "If you could be any super villain, who would you be?"
+  },
+  {
+    "title": "Truth",
+    "description": "Can you see yourself being married to the creepiest kid at your school someday?"
+  },
+  {
+    "title": "Dare",
+    "description": "Do your best impression of a romantic proposal, but make it totally over the top."
+  },
+  {
+    "title": "Dare",
+    "description": "Make up a country song of the top of your head"
+  },
+  {
+    "title": "Dare",
+    "description": "Pretend you're a stand-up comedian and do your best joke about love."
+  },
+  {
+    "title": "Truth",
+    "description": "Can you touch your tongue to your nose?"
+  },
+  {
+    "title": "Truth",
+    "description": "Who is your favourite person and why?"
+  },
+  {
+    "title": "Dare",
+    "description": "Talk in an accent for the rest of the night."
+  },
+  {
+    "title": "Truth",
+    "description": "What do you daydream about the most?"
+  },
+  {
+    "title": "Dare",
+    "description": "Write a short love poem using only three words to describe how you feel about me."
+  },
+  {
+    "title": "Dare",
+    "description": "Do a cannonball onto the couch"
+  },
+  {
+    "title": "Dare",
+    "description": "Blindfolded, go to the kitchen and make sandwich"
+  },
+  {
+    "title": "Dare",
+    "description": "Speak like Tony Montana for the next 10 minutes"
+  },
+  {
+    "title": "Truth",
+    "description": "Do you prefer apple or android?"
+  },
+  {
+    "title": "Dare",
+    "description": "Give a flying kiss to a girl"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your biggest fear in a relationship?"
+  },
+  {
+    "title": "Dare",
+    "description": "Call and yell at one of your parents and then tell them theyare grounded for a week"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever spent your parent\u2019s money on alcohol?"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you used a toy while have sex?"
+  },
+  {
+    "title": "Truth",
+    "description": "Can you lick your elbow?"
+  },
+  {
+    "title": "Truth",
+    "description": "Do you ever dream about the sex we have together?"
+  },
+  {
+    "title": "Dare",
+    "description": "Suck on your partner\u2019s belly button for a minute"
+  },
+  {
+    "title": "Truth",
+    "description": "What's one thing you wish people/I knew about you?"
+  },
+  {
+    "title": "Dare",
+    "description": "Belly dance to a country song"
+  },
+  {
+    "title": "Dare",
+    "description": "Pretend you're a love-struck detective trying to solve the mystery of how you fell for me."
+  },
+  {
+    "title": "Truth",
+    "description": "What country would like to live in if you had the chance?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the best party that you\u2019ve ever been to?"
+  },
+  {
+    "title": "Truth",
+    "description": "What would you do if your parents left the house to you fora whole week?"
+  },
+  {
+    "title": "Dare",
+    "description": "Put a wrapped piece of candy in your mouth and then unwrap it with your partner"
+  },
+  {
+    "title": "Truth",
+    "description": "Do you believe in love at first sight?"
+  },
+  {
+    "title": "Dare",
+    "description": "Do your best imitation of a romantic movie scene with me."
+  },
+  {
+    "title": "Truth",
+    "description": "What is your dream job?"
+  },
+  {
+    "title": "Dare",
+    "description": "Brush someone else's teeth"
+  },
+  {
+    "title": "Dare",
+    "description": "Make a funny face, take a selfie, and post it on Facebook"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the best dish that you mom makes for dinner?"
+  },
+  {
+    "title": "Dare",
+    "description": "Close your eyes, go to the refrigerator and eat whatever you grab"
+  },
+  {
+    "title": "Truth",
+    "description": "What was the best day of your life?"
+  },
+  {
+    "title": "Truth",
+    "description": "Are you in any sports?"
+  },
+  {
+    "title": "Truth",
+    "description": "If you were trapped on an island for 3 days, what would you take with you?"
+  },
+  {
+    "title": "Truth",
+    "description": "If you could change one thing on your body, what would it be?"
+  },
+  {
+    "title": "Truth",
+    "description": "What was your childhood nickname?"
+  },
+  {
+    "title": "Dare",
+    "description": "Make a freestyle rap song about each person in the group"
+  },
+  {
+    "title": "Dare",
+    "description": "Imitate a love-struck character from a soap opera and declare your undying love for me in the most dramatic way possible."
+  },
+  {
+    "title": "Dare",
+    "description": "Act like you're a famous chef and describe a dish you do cook for us on a romantic date."
+  },
+  {
+    "title": "Dare",
+    "description": "Send me a voice message pretending to be a love-struck character from a cheesy romance movie."
+  },
+  {
+    "title": "Dare",
+    "description": "Make up a three minute song about the first thing that comesto your mind"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever had a crush on someone that your best friend has dated?"
+  },
+  {
+    "title": "Dare",
+    "description": "Act like your favourite Disney person"
+  },
+  {
+    "title": "Dare",
+    "description": "Tie your shoe strings together and try to walk to the door and back"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever lied to your parents about what you were doing after school?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite food?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite part of my body?"
+  },
+  {
+    "title": "Dare",
+    "description": "Get on the table (or in the middle/front) and do a strip tease"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s the most ridiculous pick-up line you've heard or used?"
+  },
+  {
+    "title": "Truth",
+    "description": "What's the best meal you've ever had?"
+  },
+  {
+    "title": "Truth",
+    "description": "Do you like to exercise?"
+  },
+  {
+    "title": "Dare",
+    "description": "Run down the street in only your underwear"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your role-playing fantasy?"
+  },
+  {
+    "title": "Truth",
+    "description": "What actor/actress do you prefer?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the most annoying thing that your mom does?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your special talent?"
+  },
+  {
+    "title": "Dare",
+    "description": "With powder in your hand, smack the person to you left on thecheek"
+  },
+  {
+    "title": "Dare",
+    "description": "Take two shots of a dark and a light liquor ( 4 shots total)"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever been a stripper?"
+  },
+  {
+    "title": "Truth",
+    "description": "What embarrassing fashion trend did you take part in?"
+  },
+  {
+    "title": "Truth",
+    "description": "Who is your crush at school?"
+  },
+  {
+    "title": "Truth",
+    "description": "If I were an animal, which one would I be and why?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite sports team?"
+  },
+  {
+    "title": "Dare",
+    "description": "Repeat everything another player says for the next three rounds of the game."
+  },
+  {
+    "title": "Dare",
+    "description": "Walk on your hands from one side of the room to the other"
+  },
+  {
+    "title": "Truth",
+    "description": "What is one moment with me you will never forget?"
+  },
+  {
+    "title": "Dare",
+    "description": "Go blindfolded into the closet, undress, and redress with items only available in that same closet."
+  },
+  {
+    "title": "Dare",
+    "description": "Use the person to your right\u2019s stomach as a drum and make upa tribal dance"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s your idea of the most fun date night with me?"
+  },
+  {
+    "title": "Truth",
+    "description": "Does size matter?"
+  },
+  {
+    "title": "Dare",
+    "description": "Stand like a flamingo for the next four rounds"
+  },
+  {
+    "title": "Dare",
+    "description": "Give me a compliment using only ridiculous words and make it sound serious."
+  },
+  {
+    "title": "Dare",
+    "description": "Fold yourself into a pretzel"
+  },
+  {
+    "title": "Truth",
+    "description": "What are your three favourite colours, and why?"
+  },
+  {
+    "title": "Truth",
+    "description": "What do you daydream about the most?"
+  },
+  {
+    "title": "Truth",
+    "description": "Who is your best looking teacher that you have ever had?"
+  },
+  {
+    "title": "Dare",
+    "description": "Run around the room imitating a monkey."
+  },
+  {
+    "title": "Dare",
+    "description": "Give me a compliment using only words that rhyme with 'love'."
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever snuck anyone into to the house?"
+  },
+  {
+    "title": "Truth",
+    "description": "What animal do you think most closely resembles me?"
+  },
+  {
+    "title": "Truth",
+    "description": "Do you like bugs?"
+  },
+  {
+    "title": "Dare",
+    "description": "Set your cell phone language to Chinese for the next 10 minutes"
+  },
+  {
+    "title": "Dare",
+    "description": "Send me a message as if you were a character from our favorite movie."
+  },
+  {
+    "title": "Dare",
+    "description": "Do your best president impression"
+  },
+  {
+    "title": "Dare",
+    "description": "Create a secret handshake for us and show me how to do it."
+  },
+  {
+    "title": "Dare",
+    "description": "Blindfolded, spin around for 10 seconds, kiss the person in front you at the end of your spinning"
+  },
+  {
+    "title": "Truth",
+    "description": "At what age did you learn to ride a bike?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite season of the year?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your biggest fear?"
+  },
+  {
+    "title": "Truth",
+    "description": "What kind of pajamas do you wear to bed?"
+  },
+  {
+    "title": "Truth",
+    "description": "Where is your favourite place to be kissed?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the funniest thing your grandparents have ever said?"
+  },
+  {
+    "title": "Truth",
+    "description": "What was the moment you realized you liked me?"
+  },
+  {
+    "title": "Dare",
+    "description": "Do your best evil laugh, as loud as you can"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s the most outrageous thing you've imagined us doing together?"
+  },
+  {
+    "title": "Dare",
+    "description": "Email one of your professor\u2019s and tell them you love them"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever been kissed yet? If so, who was your best kiss?"
+  },
+  {
+    "title": "Dare",
+    "description": "Pretend you're a cat and do your best cat impression for 1 minute."
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite song?"
+  },
+  {
+    "title": "Dare",
+    "description": "Pretend to be a dramatic Broadway singer and sing me a love song like you're in a musical."
+  },
+  {
+    "title": "Dare",
+    "description": "Go outside and shout at the top of your lungs,'I am [your name]! Hear me roar!'"
+  },
+  {
+    "title": "Truth",
+    "description": "How many parties have you thrown at your house?"
+  },
+  {
+    "title": "Truth",
+    "description": "How flexible are you?"
+  },
+  {
+    "title": "Dare",
+    "description": "Do a funny impression of me and act like you're my biggest fan."
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever told one of your best friend's secrets, even if you said you wouldn't?"
+  },
+  {
+    "title": "Truth",
+    "description": "What's your biggest regret?"
+  },
+  {
+    "title": "Truth",
+    "description": "If your life were made into a movie who would play you?"
+  },
+  {
+    "title": "Truth",
+    "description": "What color is your underwear?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the most embarrassing thing your parents have caught you doing?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite position?"
+  },
+  {
+    "title": "Dare",
+    "description": "Give a topless lap dance"
+  },
+  {
+    "title": "Truth",
+    "description": "How many times have you skipped class for no reason?"
+  },
+  {
+    "title": "Dare",
+    "description": "Go up to someone random and ask for a hug"
+  },
+  {
+    "title": "Dare",
+    "description": "Moo like a cow as loud as you can"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s the most romantic thing you think we should do together?"
+  },
+  {
+    "title": "Truth",
+    "description": "What's your biggest pet peeve?"
+  },
+  {
+    "title": "Dare",
+    "description": "Sing the alphabet without moving your mouth"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your biggest pet peeve?"
+  },
+  {
+    "title": "Dare",
+    "description": "Bite into a lemon slice"
+  },
+  {
+    "title": "Truth",
+    "description": "Who is your secret crush?"
+  },
+  {
+    "title": "Dare",
+    "description": "Set your cell phone language to Chinese for the next 10 minutes"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your real GPA?"
+  },
+  {
+    "title": "Truth",
+    "description": "How many orgasims have I given you in one sitting?"
+  },
+  {
+    "title": "Dare",
+    "description": "Do your best runway walk and strike a pose like you're a model."
+  },
+  {
+    "title": "Truth",
+    "description": "What's your most unexpected red flag?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the most annoying thing your roommate does?"
+  },
+  {
+    "title": "Truth",
+    "description": "What was your worst first date?"
+  },
+  {
+    "title": "Truth",
+    "description": "Who is your best looking teacher that you have ever had?"
+  },
+  {
+    "title": "Dare",
+    "description": "Give a foot massage"
+  },
+  {
+    "title": "Truth",
+    "description": "If you could do whatever you wanted to me what would it be?"
+  },
+  {
+    "title": "Truth",
+    "description": "Did you smoke or drink before college? Or did you start when you got here?"
+  },
+  {
+    "title": "Truth",
+    "description": "Who is the worst teacher you have ever had, why?"
+  },
+  {
+    "title": "Truth",
+    "description": "Do you have an imaginary friend?"
+  },
+  {
+    "title": "Truth",
+    "description": "What college do you plan on going to?"
+  },
+  {
+    "title": "Dare",
+    "description": "Talk in a silly voice for the next 5 minutes."
+  },
+  {
+    "title": "Truth",
+    "description": "If you could change any of the house rules, what would it be?"
+  },
+  {
+    "title": "Dare",
+    "description": "Make up a poem about the colour blue"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite sport in the Olympics?"
+  },
+  {
+    "title": "Truth",
+    "description": "How people have you slept with on campus?"
+  },
+  {
+    "title": "Dare",
+    "description": "Pretend you're an old-timey lover and send me a romantic telegram."
+  },
+  {
+    "title": "Truth",
+    "description": "What is most amount of shots that you have taken in one night?"
+  },
+  {
+    "title": "Dare",
+    "description": "Do pushups until it\u2019s your turn again"
+  },
+  {
+    "title": "Dare",
+    "description": "Take a shot"
+  },
+  {
+    "title": "Truth",
+    "description": "When did you learn how to ride a bike?"
+  },
+  {
+    "title": "Truth",
+    "description": "If I were a fruit, which one do you think I\u2019d be and why?"
+  },
+  {
+    "title": "Dare",
+    "description": "Twerk on a handstand"
+  },
+  {
+    "title": "Dare",
+    "description": "Close your eyes and send a blind text to a random person"
+  },
+  {
+    "title": "Truth",
+    "description": "How do you feel about end pieces of a loaf of bread?"
+  },
+  {
+    "title": "Truth",
+    "description": "Do you prefer the lights on or off?"
+  },
+  {
+    "title": "Dare",
+    "description": "Pretend you\u2019re an awkward robot trying to express love for the first time."
+  },
+  {
+    "title": "Dare",
+    "description": "Tapdance on the couch"
+  },
+  {
+    "title": "Truth",
+    "description": "Who is your favourite person and why?"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s your idea of a perfect surprise date for us?"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s something silly or embarrassing you secretly enjoy doing?"
+  },
+  {
+    "title": "Dare",
+    "description": "Give a foot massage"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s the first thing that comes to your mind when you think of me?"
+  },
+  {
+    "title": "Truth",
+    "description": "Would you ever consider being a nudist?"
+  },
+  {
+    "title": "Dare",
+    "description": "Do an impression of someone until another player can guess who you are"
+  },
+  {
+    "title": "Truth",
+    "description": "If you could take me anywhere right now, where would it be?"
+  },
+  {
+    "title": "Dare",
+    "description": "Use the letters of the name of another player to describe them (ex. SAM : S \u2013 Silly ; A \u2013 Attractive ; M \u2013 Merry)"
+  },
+  {
+    "title": "Truth",
+    "description": "Could you go two months without talking to your friends?"
+  },
+  {
+    "title": "Dare",
+    "description": "Pretend to be an old-timey poet and recite a sonnet about me."
+  },
+  {
+    "title": "Dare",
+    "description": "Write a Facebook (or other social media) post only using your toes"
+  },
+  {
+    "title": "Truth",
+    "description": "On a scale from 1 to 10 how good is the head that I give you?"
+  },
+  {
+    "title": "Dare",
+    "description": "Do pushups until it's your turn again"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the most exotic food that you have ever eaten?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your special talent?"
+  },
+  {
+    "title": "Truth",
+    "description": "Who is your favourite teacher, and why?"
+  },
+  {
+    "title": "Dare",
+    "description": "Let your partner rub your inner thighs, but don\u2019t let yourself get hard"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your shoe size?"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s the most awkward thing that\u2019s ever happened to you while trying to flirt?"
+  },
+  {
+    "title": "Dare",
+    "description": "Share a shirt with the person to your right for the next 3 rounds"
+  },
+  {
+    "title": "Truth",
+    "description": "Who is your best friend?"
+  },
+  {
+    "title": "Dare",
+    "description": "I dare you to do 10 pushups with one hand in less than a minute"
+  },
+  {
+    "title": "Truth",
+    "description": "If you were stuck on a deserted island which friend would you want with you?"
+  },
+  {
+    "title": "Dare",
+    "description": "Call someone random, and talk freaky to them"
+  },
+  {
+    "title": "Dare",
+    "description": "Spin around 10 times, when you get done try to walk in a straight line"
+  },
+  {
+    "title": "Dare",
+    "description": "Wear your pants backward for the rest of the game."
+  },
+  {
+    "title": "Truth",
+    "description": "If you could change one thing on your body, what would it be?"
+  },
+  {
+    "title": "Dare",
+    "description": "Quack and walk like a duck"
+  },
+  {
+    "title": "Truth",
+    "description": "15. Would you rather be a chicken or duck?"
+  },
+  {
+    "title": "Dare",
+    "description": "Act out your favorite romantic movie scene with me."
+  },
+  {
+    "title": "Dare",
+    "description": "Do a headstand"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s a silly habit I have that makes you smile?"
+  },
+  {
+    "title": "Dare",
+    "description": "Give me a compliment in a whisper."
+  },
+  {
+    "title": "Dare",
+    "description": "Yell out the first word that comes to your mind right now"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you been in any fights while in school?"
+  },
+  {
+    "title": "Dare",
+    "description": "Pretend you\u2019re a magician and perform a love spell for me."
+  },
+  {
+    "title": "Dare",
+    "description": "Wiggle your ears without using your hands"
+  },
+  {
+    "title": "Truth",
+    "description": "How long have you gone without showering?"
+  },
+  {
+    "title": "Dare",
+    "description": "Tell a funny knock knock joke, everyone must laugh"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever had someone write a paper for you?"
+  },
+  {
+    "title": "Dare",
+    "description": "Unbuckle your own belt using your elbows"
+  },
+  {
+    "title": "Dare",
+    "description": "Hold your shoe up to your nose until it is your turn again"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s the worst pick-up line you\u2019ve ever used or heard?"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever lied to your best friend?"
+  },
+  {
+    "title": "Truth",
+    "description": "If you were a billionaire, what would you spend your time doing?"
+  },
+  {
+    "title": "Truth",
+    "description": "Who was your first celebrity crush?"
+  },
+  {
+    "title": "Dare",
+    "description": "Text your crush and tell them how much you like them"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever done a sex train? (whatever that is)"
+  },
+  {
+    "title": "Truth",
+    "description": "If you could take away one bad thing in the world, what would it be?"
+  },
+  {
+    "title": "Dare",
+    "description": "Eat a mouthful of crackers and try to whistle."
+  },
+  {
+    "title": "Truth",
+    "description": "If you could surprise me with something romantic, what would it be?"
+  },
+  {
+    "title": "Dare",
+    "description": "Call the pizza place and order 300 sardine pizzas"
+  },
+  {
+    "title": "Dare",
+    "description": "Chug a whole beer in 15 seconds"
+  },
+  {
+    "title": "Dare",
+    "description": "Paint your fingernails with a crayon"
+  },
+  {
+    "title": "Truth",
+    "description": "If you could switch places with anyone for a day, who would it be and why?"
+  },
+  {
+    "title": "Truth",
+    "description": "What would you do if your current boyfriend/girlfriend ended things right now?"
+  },
+  {
+    "title": "Truth",
+    "description": "Hold hands and take a romantic walk together, even if it\u2019s just around the block."
+  },
+  {
+    "title": "Dare",
+    "description": "Twerk for a minute"
+  },
+  {
+    "title": "Truth",
+    "description": "Are you still a virgin?"
+  },
+  {
+    "title": "Truth",
+    "description": "If you could get rid of one household chore, what would it be?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite movie?"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s the most unexpected thing you\u2019ve ever done for love?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your best talent?"
+  },
+  {
+    "title": "Dare",
+    "description": "Do a handstand on the wall for the next two rounds"
+  },
+  {
+    "title": "Truth",
+    "description": "What is one thing you want to learn about me that you don't know yet?"
+  },
+  {
+    "title": "Truth",
+    "description": "Do you like drunk sex?"
+  },
+  {
+    "title": "Truth",
+    "description": "What would you do on the perfect first date?"
+  },
+  {
+    "title": "Dare",
+    "description": "Tie a cherry stem with your tongue"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever peed in the swimming pool?"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s something you\u2019ve always wanted to try with me, but haven\u2019t yet?"
+  },
+  {
+    "title": "Truth",
+    "description": "What happened on the worst day of your life?"
+  },
+  {
+    "title": "Dare",
+    "description": "Try licking your elbow."
+  },
+  {
+    "title": "Truth",
+    "description": "What was the most embarrassing song on your Spotify Wrapped last year?"
+  },
+  {
+    "title": "Truth",
+    "description": "Who is the worst teacher you have ever had, why?"
+  },
+  {
+    "title": "Dare",
+    "description": "Close your eyes until it\u2019s your turn again"
+  },
+  {
+    "title": "Dare",
+    "description": "Give a back rub the person to your right"
+  },
+  {
+    "title": "Truth",
+    "description": "Who is your crush at school?"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever cheated on any test?"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever gotten an STD?"
+  },
+  {
+    "title": "Dare",
+    "description": "Sing instead of speaking for the next two rounds of the game."
+  },
+  {
+    "title": "Truth",
+    "description": "What is the craziest thing that you have ever done while drunk?"
+  },
+  {
+    "title": "Truth",
+    "description": "What color is your underwear?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the most exotic food that you have ever eaten?"
+  },
+  {
+    "title": "Dare",
+    "description": "Do your best belly dance"
+  },
+  {
+    "title": "Dare",
+    "description": "Go 10 minutes without saying the words: but, a, the, or"
+  },
+  {
+    "title": "Truth",
+    "description": "Do you prefer apple or android?"
+  },
+  {
+    "title": "Dare",
+    "description": "Do your best chicken dance outside on the lawn"
+  },
+  {
+    "title": "Truth",
+    "description": "What do you think makes me unique?"
+  },
+  {
+    "title": "Dare",
+    "description": "Act like a monkey until it is your turn again"
+  },
+  {
+    "title": "Truth",
+    "description": "What celebrity are you obsessed with?"
+  },
+  {
+    "title": "Truth",
+    "description": "If you could describe your personality in three emojis, what would they be?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite school subject?"
+  },
+  {
+    "title": "Truth",
+    "description": "If you could be a superhero, what would your power be?"
+  },
+  {
+    "title": "Dare",
+    "description": "Ask your crush out on a date"
+  },
+  {
+    "title": "Dare",
+    "description": "Describe how you feel about me using only gestures."
+  },
+  {
+    "title": "Dare",
+    "description": "Call your parents and tell them you're dropping out"
+  },
+  {
+    "title": "Truth",
+    "description": "How many times have you snuck out of the house?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the best vacation you've ever been on?"
+  },
+  {
+    "title": "Truth",
+    "description": "Could you go a week without junk food?"
+  },
+  {
+    "title": "Dare",
+    "description": "In your next class, raise your hand each time the teacher asks a question and give the answer (if you can!!)"
+  },
+  {
+    "title": "Truth",
+    "description": "How do you feel about end pieces of a loaf of bread?"
+  },
+  {
+    "title": "Truth",
+    "description": "Who is the best roommate that you have ever had?"
+  },
+  {
+    "title": "Truth",
+    "description": "If you a million dollars, what would you do with all of your money?"
+  },
+  {
+    "title": "Truth",
+    "description": "If we could live anywhere in the world, where would you want to go?"
+  },
+  {
+    "title": "Dare",
+    "description": "Write 'I \u2764\ufe0f You' on my palm using your finger."
+  },
+  {
+    "title": "Truth",
+    "description": "What is one thing you secretly admire about me?"
+  },
+  {
+    "title": "Dare",
+    "description": "Take 10 minutes to come up with an outfit that has every color of the rainbow. Borrow things from friends as you need to."
+  },
+  {
+    "title": "Truth",
+    "description": "Did you smoke or drink before college? Or did you start when you got here?"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s one thing about me that always makes you laugh?"
+  },
+  {
+    "title": "Dare",
+    "description": "Pretend you\u2019re a magician and perform a romantic 'disappearing act' to win my heart."
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever sang and danced in the grocery store?"
+  },
+  {
+    "title": "Dare",
+    "description": "Make up a story about the item to your right"
+  },
+  {
+    "title": "Dare",
+    "description": "Screenshot your browser history"
+  },
+  {
+    "title": "Dare",
+    "description": "Say the alphabet in a different language"
+  },
+  {
+    "title": "Dare",
+    "description": "Act like a chicken for 1 minute"
+  },
+  {
+    "title": "Truth",
+    "description": "Have we ever had bad sex?"
+  },
+  {
+    "title": "Truth",
+    "description": "Whisper three heartfelt compliments into your partner\u2019s ear."
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever paid for sex?"
+  },
+  {
+    "title": "Dare",
+    "description": "Call your parents and tell them you\u2019re dropping out"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the perfect first day?"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever been kissed yet? If so, who was your best kiss?"
+  },
+  {
+    "title": "Truth",
+    "description": "Would you ever have sex with one of your professors? If so, which one?"
+  },
+  {
+    "title": "Dare",
+    "description": "Sing everything you say for the next 10 minutes"
+  },
+  {
+    "title": "Dare",
+    "description": "Spin the bottle, whoever it lands on you must take their shirt off, only using your teeth"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s the funniest thing you've ever imagined doing with me?"
+  },
+  {
+    "title": "Dare",
+    "description": "Say \u201cbanana\u201d after everything you say until it is your turn again"
+  },
+  {
+    "title": "Truth",
+    "description": "Do you know how to cook?"
+  },
+  {
+    "title": "Dare",
+    "description": "Get on all fours and act like a dog until your next turn"
+  },
+  {
+    "title": "Dare",
+    "description": "Act like your favourite superhero"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the longest time you\u2019ve gone without sex?"
+  },
+  {
+    "title": "Dare",
+    "description": "Give a concert with your air guitar"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the most annoying thing that one of your siblings has done?"
+  },
+  {
+    "title": "Dare",
+    "description": "Only use your elbows and knees to go make a sandwich"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the most annoying thing that your dad does?"
+  },
+  {
+    "title": "Dare",
+    "description": "Lick your nose"
+  },
+  {
+    "title": "Truth",
+    "description": "How do you put your toilet paper on the roll?"
+  },
+  {
+    "title": "Dare",
+    "description": "Cross your eyes"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite sport?"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever lied to your parents about if you were in classes or not?"
+  },
+  {
+    "title": "Dare",
+    "description": "Post a YouTube video of you singing a currently popular song."
+  },
+  {
+    "title": "Dare",
+    "description": "Do a backbend"
+  },
+  {
+    "title": "Truth",
+    "description": "What is a nickname you would love to call me?"
+  },
+  {
+    "title": "Truth",
+    "description": "How do you feel about social media?"
+  },
+  {
+    "title": "Truth",
+    "description": "If you could own your own business one day, what would it be?"
+  },
+  {
+    "title": "Dare",
+    "description": "Pull up your favourite porn site your phone right now"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever had sex in your parent\u2019s bed?"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s the funniest or most embarrassing thing you\u2019ve done to get someone's attention?"
+  },
+  {
+    "title": "Dare",
+    "description": "Yell out the first word that comes to your mind right now"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s a trait of mine that you admire the most?"
+  },
+  {
+    "title": "Dare",
+    "description": "Sit in the trash can for the next round"
+  },
+  {
+    "title": "Dare",
+    "description": "Pretend to be a clumsy waiter serving me the worst meal ever."
+  },
+  {
+    "title": "Truth",
+    "description": "Would you rather be a bumblebee or a slug?"
+  },
+  {
+    "title": "Dare",
+    "description": "Send an email to one of your teachers, telling them about howyour day is going"
+  },
+  {
+    "title": "Truth",
+    "description": "Can you see yourself being married to the creepiest kid a your school someday?"
+  },
+  {
+    "title": "Truth",
+    "description": "How old were you when you had your first kiss?"
+  },
+  {
+    "title": "Dare",
+    "description": "Pretend to ask me out on our first date again."
+  },
+  {
+    "title": "Dare",
+    "description": "Sing your favourite song"
+  },
+  {
+    "title": "Dare",
+    "description": "Send me a voice note singing a song, but change the lyrics to be about us."
+  },
+  {
+    "title": "Truth",
+    "description": "What crime would you commit if you knew you'd never get caught?"
+  },
+  {
+    "title": "Dare",
+    "description": "Write a Facebook (or other social media) post only using your toes"
+  },
+  {
+    "title": "Truth",
+    "description": "Who was your first partner?"
+  },
+  {
+    "title": "Dare",
+    "description": "Stand outside naked for 3 minutes"
+  },
+  {
+    "title": "Dare",
+    "description": "Do a dramatic reading of your last text message like it\u2019s a Shakespearean monologue."
+  },
+  {
+    "title": "Dare",
+    "description": "Whisper a compliment in my ear and make me blush."
+  },
+  {
+    "title": "Dare",
+    "description": "Give me your best impression of a celebrity giving me relationship advice."
+  },
+  {
+    "title": "Dare",
+    "description": "Only use your elbows and knees to go make a sandwich"
+  },
+  {
+    "title": "Dare",
+    "description": "Say the alphabet backwards in 30 seconds"
+  },
+  {
+    "title": "Truth",
+    "description": "If you could relive one moment with me, which one would it be and why?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite game to play?"
+  },
+  {
+    "title": "Dare",
+    "description": "Pound on your chest and act like a gorilla for the next minute"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever made a video of yourself?"
+  },
+  {
+    "title": "Truth",
+    "description": "If you had to sum up our relationship in one sentence, what would you say?"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever slept with your roommate\u2019s bf/gf?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the most expensive thing you own?"
+  },
+  {
+    "title": "Dare",
+    "description": "Raise your shirt play with your nipples"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your biggest fear?"
+  },
+  {
+    "title": "Truth",
+    "description": "What part of your body would you love for me to massage?"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s your favorite memory of us together so far?"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever had a dream about one of your relatives?"
+  },
+  {
+    "title": "Truth",
+    "description": "Write and exchange love vows or promises to each other."
+  },
+  {
+    "title": "Truth",
+    "description": "What was your childhood nickname?"
+  },
+  {
+    "title": "Dare",
+    "description": "Say three things you love about me, but whisper them in my ear."
+  },
+  {
+    "title": "Truth",
+    "description": "If you could marry one teacher in the school, who would you pick and why?"
+  },
+  {
+    "title": "Truth",
+    "description": "Do you have a job? If so, what is your favourite thing about it?"
+  },
+  {
+    "title": "Dare",
+    "description": "Write a love note and leave it where I can find it later."
+  },
+  {
+    "title": "Dare",
+    "description": "Put a hickey on the inner thigh of the person to your left"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever blacked out from drinking too much?"
+  },
+  {
+    "title": "Dare",
+    "description": "Write a short poem about how you feel about me."
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever gone skinny dipping?"
+  },
+  {
+    "title": "Dare",
+    "description": "Cross your eyes and walk to front yard and back"
+  },
+  {
+    "title": "Dare",
+    "description": "Break dance"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever taken money from your roommate?"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s a song that always reminds you of me?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the funniest youtube video you have ever seen?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your biggest pet peeve?"
+  },
+  {
+    "title": "Truth",
+    "description": "Do you believe in love at all?"
+  },
+  {
+    "title": "Dare",
+    "description": "Make up a country song of the top of your head"
+  },
+  {
+    "title": "Truth",
+    "description": "Write a love note or message on a small piece of paper and hide it somewhere your partner will find it unexpectedly."
+  },
+  {
+    "title": "Dare",
+    "description": "Take 2 shots and do a cartwheel"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite movie?"
+  },
+  {
+    "title": "Dare",
+    "description": "Say the alphabet backwards in 15 seconds"
+  },
+  {
+    "title": "Truth",
+    "description": "If we could be any fictional couple, who would we be and why?"
+  },
+  {
+    "title": "Truth",
+    "description": "What are the three qualities you feel are most important in a friend?"
+  },
+  {
+    "title": "Truth",
+    "description": "What would you do if you were invisible for a day?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the most embarrassing moment of your life?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the most expensive thing you own?"
+  },
+  {
+    "title": "Dare",
+    "description": "Switch clothing with someone of the opposite gender. Change in private, but wear the clothes for the next four rounds."
+  },
+  {
+    "title": "Truth",
+    "description": "What are your three favourite colours, and why?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is something you have stolen?"
+  },
+  {
+    "title": "Truth",
+    "description": "How long could you without eating your favourite food?"
+  },
+  {
+    "title": "Truth",
+    "description": "What do you want to be when you grow up?"
+  },
+  {
+    "title": "Dare",
+    "description": "Moonwalk while a friend takes a video."
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite kind of clothing?"
+  },
+  {
+    "title": "Dare",
+    "description": "Pretend to be a chef and make a delicious 'romantic' dish for me using only silly ingredients."
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever cheated on any test?"
+  },
+  {
+    "title": "Truth",
+    "description": "If you could take me on a surprise adventure, where would we go?"
+  },
+  {
+    "title": "Truth",
+    "description": "If there was no such thing as money, what would you do with your life?"
+  },
+  {
+    "title": "Truth",
+    "description": "What he craziest thing that you have ever done without yourparents knowing?"
+  },
+  {
+    "title": "Truth",
+    "description": "Look deeply into your partner\u2019s eyes and tell them three things you adore about them."
+  },
+  {
+    "title": "Truth",
+    "description": "If you could take away one bad thing in the world, what would it be?"
+  },
+  {
+    "title": "Dare",
+    "description": "Reenact the first time we met, but make it exaggerated and funny."
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s the most awkward thing you\u2019ve done in front of me?"
+  },
+  {
+    "title": "Truth",
+    "description": "16. Would you rather be a pig or snake?"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s the most ridiculous thing you've done to impress someone?"
+  },
+  {
+    "title": "Truth",
+    "description": "Would you go behind a friend's back with a crush?"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever had sex in your roommate\u2019s bed?"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever blamed something that you have done on one of your siblings?"
+  },
+  {
+    "title": "Truth",
+    "description": "Which person here knows something about you that you wouldn't want revealed?"
+  },
+  {
+    "title": "Dare",
+    "description": "Use the letters of the name of another player to describe them"
+  },
+  {
+    "title": "Dare",
+    "description": "Say \u201cya heard meh\u201d after everything you say for the next 5 minutes"
+  },
+  {
+    "title": "Truth",
+    "description": "What's the funniest thing you\u2019ve thought about me when you saw me?"
+  },
+  {
+    "title": "Truth",
+    "description": "Can you lick your elbow?"
+  },
+  {
+    "title": "Dare",
+    "description": "Make up a funny backstory for how we met, and tell me about it."
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever had sex anywhere on campus?"
+  },
+  {
+    "title": "Dare",
+    "description": "Sing the alphabet without moving your mouth"
+  },
+  {
+    "title": "Dare",
+    "description": "Do the silliest dance that you can think of"
+  },
+  {
+    "title": "Dare",
+    "description": "Write me a love letter."
+  },
+  {
+    "title": "Dare",
+    "description": "Email one of your professors and tell them you love them"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your biggest turn off in a partner?"
+  },
+  {
+    "title": "Truth",
+    "description": "Slow dance to a romantic song in the middle of the room."
+  },
+  {
+    "title": "Truth",
+    "description": "Would you ever get on a dating website?"
+  },
+  {
+    "title": "Truth",
+    "description": "How many freshmen have you slept with?"
+  },
+  {
+    "title": "Dare",
+    "description": "Hold your breath for 10 seconds"
+  },
+  {
+    "title": "Dare",
+    "description": "Unbuckle your own belt using your elbows"
+  },
+  {
+    "title": "Dare",
+    "description": "Paint each toenail and fingernail a different color and keep the polish on for a week."
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favorite thing about how I look?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite season of the year?"
+  },
+  {
+    "title": "Dare",
+    "description": "Act like an old lady or an old man"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the perfect first day?"
+  },
+  {
+    "title": "Dare",
+    "description": "Try to serenade me with a song of your choice, but change the lyrics to be funny!"
+  },
+  {
+    "title": "Truth",
+    "description": "What gives you the 'ick'?"
+  },
+  {
+    "title": "Dare",
+    "description": "Talk like a baby for the next 3 rounds"
+  },
+  {
+    "title": "Dare",
+    "description": "Bite/kiss your partner\u2019s booty"
+  },
+  {
+    "title": "Dare",
+    "description": "Pretend you're an overly enthusiastic tour guide, and show me around our imaginary romantic getaway."
+  },
+  {
+    "title": "Truth",
+    "description": "What's one thing about me that you find irresistible?"
+  },
+  {
+    "title": "Dare",
+    "description": "Go to the neighbour's house and ask for a banana"
+  },
+  {
+    "title": "Dare",
+    "description": "Send me a picture of your current outfit, but pretend you're a famous fashion designer giving a runway show."
+  },
+  {
+    "title": "Truth",
+    "description": "How many best friends have you had during your lifetime?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is one thing about me that always makes you smile?"
+  },
+  {
+    "title": "Dare",
+    "description": "Let someone give you haircut with their weak hand"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever been cheated on by a boyfriend/girlfriend?"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever cheated on a boyfriend/girlfriend?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the funniest dream that you have ever had?"
+  },
+  {
+    "title": "Truth",
+    "description": "What were your first impressions of me (the person asking the question)?"
+  },
+  {
+    "title": "Dare",
+    "description": "Take a shot off of the person to your right"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your weirdest habit?"
+  },
+  {
+    "title": "Truth",
+    "description": "Are you scared of monsters?"
+  },
+  {
+    "title": "Truth",
+    "description": "What was your best sexual experience?"
+  },
+  {
+    "title": "Dare",
+    "description": "Take a selfie with your finger up your nose and post it to all your social media"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite board game to play with your family?"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s your favorite way to show affection, but in a silly or unusual way?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite sports team?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite color?"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever blamed something that you have done on one of your siblings?"
+  },
+  {
+    "title": "Truth",
+    "description": "Who is your celebrity husband or wife?"
+  },
+  {
+    "title": "Dare",
+    "description": "Stand in the corner in \u201ctime out\u201d, not say a word for the next 3 rounds"
+  },
+  {
+    "title": "Truth",
+    "description": "If you could put one person in your family on mute for a day, who would it be?"
+  },
+  {
+    "title": "Dare",
+    "description": "Do a headstand while you sing your favourite nursery rhyme"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the most romantic thing you've thought about me?"
+  },
+  {
+    "title": "Truth",
+    "description": "If you could marry one teacher in the school, who would you pick and why?"
+  },
+  {
+    "title": "Truth",
+    "description": "What's your scariest nightmare?"
+  },
+  {
+    "title": "Dare",
+    "description": "Get a large garbage bag and cut the bottom open. Put it on like a skirt and tie the ties around your waist. Act like you are modeling couture on the catwalk."
+  },
+  {
+    "title": "Dare",
+    "description": "Make up a rap about the person to your right."
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever thought about being a stripper?"
+  },
+  {
+    "title": "Dare",
+    "description": "Make up a story about the item to your right"
+  },
+  {
+    "title": "Dare",
+    "description": "Chug an entire beer, then spin around for 15 seconds, after that try to run to the door"
+  },
+  {
+    "title": "Dare",
+    "description": "Tell them they have to do a logic puzzle and if they don't finish it within 3 minutes - you will give them an embarrasing dare!"
+  },
+  {
+    "title": "Truth",
+    "description": "If you could be any dinosaur, which would it be?"
+  },
+  {
+    "title": "Dare",
+    "description": "Call the pizza place and order 300 sardine pizzas"
+  },
+  {
+    "title": "Dare",
+    "description": "Sing \u201cItsy Bitsy Spider\u201d while standing on your head"
+  },
+  {
+    "title": "Dare",
+    "description": "Give someone in the group a piggyback ride around the room."
+  },
+  {
+    "title": "Truth",
+    "description": "What is the longest that you have ever been without taking a shower?"
+  },
+  {
+    "title": "Dare",
+    "description": "Only use sign language for the next round"
+  },
+  {
+    "title": "Dare",
+    "description": "Eat a spoonful of peanut butter"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite song that is out right now?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite food?"
+  },
+  {
+    "title": "Truth",
+    "description": "If we were in a rom-com, what scene would you want us to recreate?"
+  },
+  {
+    "title": "Truth",
+    "description": "Who was your first crush, or who is your current crush?"
+  },
+  {
+    "title": "Dare",
+    "description": "Snort a line of sugar"
+  },
+  {
+    "title": "Truth",
+    "description": "What do you think is my most attractive quality?"
+  },
+  {
+    "title": "Dare",
+    "description": "Twerk for a minute"
+  },
+  {
+    "title": "Truth",
+    "description": "Can you touch your tongue to your nose?"
+  },
+  {
+    "title": "Truth",
+    "description": "What do you think makes our relationship special?"
+  },
+  {
+    "title": "Dare",
+    "description": "Twerk in only your underwear"
+  },
+  {
+    "title": "Truth",
+    "description": "Describe your worst date ever?"
+  },
+  {
+    "title": "Dare",
+    "description": "Go up to someone random and ask for a hug"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the best vacation you\u2019ve ever been on?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite place to go out to eat?"
+  },
+  {
+    "title": "Dare",
+    "description": "Do 150 jumping jacks"
+  },
+  {
+    "title": "Dare",
+    "description": "Do a dramatic reading of a random text you received today."
+  },
+  {
+    "title": "Dare",
+    "description": "Pretend to be a fortune teller and give me a funny reading of my future."
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever blacked out from drinking too much?"
+  },
+  {
+    "title": "Truth",
+    "description": "What did you do on your first night of freshman year?"
+  },
+  {
+    "title": "Truth",
+    "description": "Who is your favourite singer?"
+  },
+  {
+    "title": "Truth",
+    "description": "How was your first kiss?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your biggest turn off in a partner?"
+  },
+  {
+    "title": "Dare",
+    "description": "Make up a short rap about another player"
+  },
+  {
+    "title": "Dare",
+    "description": "Go outside and sing your national anthem as loud as you can"
+  },
+  {
+    "title": "Truth",
+    "description": "What's the most unique thing you've ever eaten?"
+  },
+  {
+    "title": "Dare",
+    "description": "Do 5 cartwheels in a row"
+  },
+  {
+    "title": "Dare",
+    "description": "Share a secret you've been waiting to tell me."
+  },
+  {
+    "title": "Dare",
+    "description": "Give me a compliment in the most creative way you can think of."
+  },
+  {
+    "title": "Dare",
+    "description": "Give the person to your right a hickie"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your dream wedding?"
+  },
+  {
+    "title": "Dare",
+    "description": "Stand on one leg for the next three rounds"
+  },
+  {
+    "title": "Dare",
+    "description": "Draw a symbol that represents us as a couple."
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever thought about someone else while we were having sex?"
+  },
+  {
+    "title": "Truth",
+    "description": "Which is your favorite of my friends?"
+  },
+  {
+    "title": "Truth",
+    "description": "How was your first kiss?"
+  },
+  {
+    "title": "Dare",
+    "description": "Let me do your makeup/style your hair."
+  },
+  {
+    "title": "Dare",
+    "description": "Act like a baby until your next turn"
+  },
+  {
+    "title": "Truth",
+    "description": "Would you ever consider being a nudist?"
+  },
+  {
+    "title": "Dare",
+    "description": "Take off your socks and wear them on your hands for the rest of the evening."
+  },
+  {
+    "title": "Dare",
+    "description": "Lick the wall"
+  },
+  {
+    "title": "Dare",
+    "description": "Tell me a funny story about something embarrassing that happened to you recently."
+  },
+  {
+    "title": "Truth",
+    "description": "Are you still a virgin?"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s the cheesiest thing you've ever done for love?"
+  },
+  {
+    "title": "Truth",
+    "description": "What's something totally random you do when you're alone?"
+  },
+  {
+    "title": "Dare",
+    "description": "Spray whipped cream (or any other food) all over someone in the group and eat it off of them"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the longest time you have ever been grounded?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the funniest youtube video you have ever seen?"
+  },
+  {
+    "title": "Dare",
+    "description": "Do an impression of your favorite celebrity"
+  },
+  {
+    "title": "Truth",
+    "description": "What is one thing you are most excited about in our future together?"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s your secret talent that you think would make me laugh?"
+  },
+  {
+    "title": "Truth",
+    "description": "Do you believe in love at first sight?"
+  },
+  {
+    "title": "Dare",
+    "description": "Try to spin on your head like a break dancer"
+  },
+  {
+    "title": "Dare",
+    "description": "Tell me a story about a time when you felt happy with me."
+  },
+  {
+    "title": "Truth",
+    "description": "Would you drop out of school if you were to win the lottery?"
+  },
+  {
+    "title": "Dare",
+    "description": "Act like Romeo from 'Romeo and Juliet' (pick who you want to be Juliet)"
+  },
+  {
+    "title": "Dare",
+    "description": "Call a random person and sing happy birthday to them"
+  },
+  {
+    "title": "Dare",
+    "description": "Act like you do not understand your own language until your next turn (come up with your own language)"
+  },
+  {
+    "title": "Dare",
+    "description": "Belly dance to a country song"
+  },
+  {
+    "title": "Dare",
+    "description": "Prank call someone you know."
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite song that is out right now?"
+  },
+  {
+    "title": "Dare",
+    "description": "Pretend you're a chef and describe your favorite meal to me in a dramatic, funny way."
+  },
+  {
+    "title": "Truth",
+    "description": "How many kids would you like to have?"
+  },
+  {
+    "title": "Dare",
+    "description": "Hold my hand and tell me how I make you feel loved."
+  },
+  {
+    "title": "Truth",
+    "description": "If you had the choice to live on your own right now, would you do it?"
+  },
+  {
+    "title": "Truth",
+    "description": "Do you prefer to have music in the background, or for it to be quiet?"
+  },
+  {
+    "title": "Dare",
+    "description": "Make out with the person to the right of you (if okay with your partner :])"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever pulled a prank on your teacher?"
+  },
+  {
+    "title": "Dare",
+    "description": "Make a fish face"
+  },
+  {
+    "title": "Dare",
+    "description": "Describe our first kiss in the most dramatic way possible."
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever woken up to a stranger in your bed?"
+  },
+  {
+    "title": "Dare",
+    "description": "For the next 2 rounds, you must do whatever the person to your right says"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever watched an adult film without your parents knowing?"
+  },
+  {
+    "title": "Dare",
+    "description": "Get on all fours and act like a dog until your next turn"
+  },
+  {
+    "title": "Dare",
+    "description": "Hold your breath for 15 seconds"
+  },
+  {
+    "title": "Dare",
+    "description": "Do 10 jumping jacks while trying to make me laugh."
+  },
+  {
+    "title": "Dare",
+    "description": "Act like Romeo from \u201cRomeo and Juliet\u201d (pick who you want to be Juliet)"
+  },
+  {
+    "title": "Truth",
+    "description": "Do you have a job? If so, what is your favourite thing aboutit?"
+  },
+  {
+    "title": "Truth",
+    "description": "Could you go two months without talking to your friends?"
+  },
+  {
+    "title": "Dare",
+    "description": "Wear a finger moustache for the next 5 minutes"
+  },
+  {
+    "title": "Dare",
+    "description": "Say 'ya heard meh' after everything you say for the next 5 minutes"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favorite thing about my sense of humor?"
+  },
+  {
+    "title": "Truth",
+    "description": "Do you know how to swim?"
+  },
+  {
+    "title": "Truth",
+    "description": "If I gave you a superhero power for a day, what would it be and how would you use it for mischief?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite movie?"
+  },
+  {
+    "title": "Dare",
+    "description": "Do an impression of a famous romantic character telling me how much they love me."
+  },
+  {
+    "title": "Truth",
+    "description": "Who taught you how to tie your shoes?"
+  },
+  {
+    "title": "Dare",
+    "description": "Only use sign language for the next round"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favorite thing about my sense of adventure?"
+  },
+  {
+    "title": "Truth",
+    "description": "How do you put your toilet paper on the roll?"
+  },
+  {
+    "title": "Truth",
+    "description": "What animal are you scared of?"
+  },
+  {
+    "title": "Dare",
+    "description": "Do a handstand"
+  },
+  {
+    "title": "Dare",
+    "description": "Pretend you're my personal hype man/woman and cheer me up with the most ridiculous words of encouragement."
+  },
+  {
+    "title": "Truth",
+    "description": "If we were in a love story, how would it end?"
+  },
+  {
+    "title": "Truth",
+    "description": "What do you think is our most memorable moment together?"
+  },
+  {
+    "title": "Truth",
+    "description": "How many boyfriends (or girlfriends) have you had?"
+  },
+  {
+    "title": "Dare",
+    "description": "Pretend we are meeting for the first time and introduce yourself to me."
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s something you\u2019ve done on a date that you now cringe about?"
+  },
+  {
+    "title": "Dare",
+    "description": "Wear a finger moustache for the next 5 minutes"
+  },
+  {
+    "title": "Dare",
+    "description": "Balance the object to your left on your head for the next three rounds"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favorite thing about my personality?"
+  },
+  {
+    "title": "Dare",
+    "description": "Do an impression of your favourite relative, do not stop until everyone can guess who you are"
+  },
+  {
+    "title": "Truth",
+    "description": "What was your funniest first date ever?"
+  },
+  {
+    "title": "Dare",
+    "description": "Jump up and down until it\u2019s your turn again"
+  },
+  {
+    "title": "Dare",
+    "description": "Set up a tea party between any of the stuffed animals in the house. Invite the girls in your group to join."
+  },
+  {
+    "title": "Truth",
+    "description": "Who is your favourite Disney character?"
+  },
+  {
+    "title": "Dare",
+    "description": "Make up a short rap about another player"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever pulled a prank on your teacher?"
+  },
+  {
+    "title": "Dare",
+    "description": "Write a sweet message to me on a piece of paper and give it to me."
+  },
+  {
+    "title": "Dare",
+    "description": "Crack an egg on your head."
+  },
+  {
+    "title": "Truth",
+    "description": "If you could go anywhere in the world, where would you go?"
+  },
+  {
+    "title": "Dare",
+    "description": "Paint your toenails only using your teeth"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite strip club?"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever picked your nose when you thought no one was looking?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the most awkward moment you've ever had on a date?"
+  },
+  {
+    "title": "Dare",
+    "description": "Go to the neighbour\u2019s house and ask for a banana"
+  },
+  {
+    "title": "Dare",
+    "description": "Stand up and spin around for the next two rounds"
+  },
+  {
+    "title": "Truth",
+    "description": "What was the last thing you Googled?"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever had a crush on someone that your best friend has dated?"
+  },
+  {
+    "title": "Truth",
+    "description": "If we were in a rom-com, who would play us in the movie?"
+  },
+  {
+    "title": "Dare",
+    "description": "Ask the neighbors to borrow a cup of sugar."
+  },
+  {
+    "title": "Dare",
+    "description": "Do the sprinkler dance"
+  },
+  {
+    "title": "Dare",
+    "description": "Wear a funny hat on your head for the next three rounds of questions."
+  },
+  {
+    "title": "Truth",
+    "description": "If I asked you to make a funny face for me, would you do it?"
+  },
+  {
+    "title": "Dare",
+    "description": "Act like you're a puppy and show me how you'd greet me if I were just walking in the door."
+  },
+  {
+    "title": "Truth",
+    "description": "What is your favourite type of porn?"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s the most thoughtful gift you think you could give me?"
+  },
+  {
+    "title": "Dare",
+    "description": "Meow like cat"
+  },
+  {
+    "title": "Truth",
+    "description": "What was your funniest first date ever?"
+  },
+  {
+    "title": "Truth",
+    "description": "What\u2019s one thing that makes you instantly think of me?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the longest time that you think you could go without your cell phone?"
+  },
+  {
+    "title": "Dare",
+    "description": "Take a ridiculous selfie with me and set it as your profile picture."
+  },
+  {
+    "title": "Truth",
+    "description": "Would you rather be a horse or a cow?"
+  },
+  {
+    "title": "Truth",
+    "description": "If you could go on a date with anyone in the room who would it be?"
+  },
+  {
+    "title": "Dare",
+    "description": "Take a selfie with your finger up your nose and post it to all your social media"
+  },
+  {
+    "title": "Truth",
+    "description": "What is the longest time that you think you could go withoutyour cell phone?"
+  },
+  {
+    "title": "Dare",
+    "description": "Record yourself doing the silliest dance you can do, and post it to Facebook"
+  },
+  {
+    "title": "Truth",
+    "description": "Would you ever get on a dating website?"
+  },
+  {
+    "title": "Truth",
+    "description": "What is your guilty pleasure?"
+  },
+  {
+    "title": "Dare",
+    "description": "Brush your spouse's teeth"
+  },
+  {
+    "title": "Dare",
+    "description": "Do an impression of your favorite celebrity"
+  },
+  {
+    "title": "Dare",
+    "description": "Make a poem using the words orange and moose"
+  },
+  {
+    "title": "Truth",
+    "description": "If you had the choice to live on your own right now, would you do it?"
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever told one of your best friend\u2019s secrets, even if you said you wouldn\u2019t?"
+  },
+  {
+    "title": "Truth",
+    "description": "Do you like doing chores?"
+  },
+  {
+    "title": "Dare",
+    "description": "Pretend you're a romantic poet and serenade me with a dramatic love declaration."
+  },
+  {
+    "title": "Dare",
+    "description": "Tell me a story about a time when you felt proud of me."
+  },
+  {
+    "title": "Truth",
+    "description": "Do you believe in love at all?"
+  },
+  {
+    "title": "Dare",
+    "description": "Look into my eyes and tell me something you've been wanting to say but haven't yet."
+  },
+  {
+    "title": "Truth",
+    "description": "Have you ever lied to your best friend?"
+  },
+  {
+    "title": "Dare",
+    "description": "Lick your partner (or person to your left) from their neck all the way to the brim or their underwear"
+  },
+  {
+    "title": "Truth",
+    "description": "Of all the people you know, who has the most beautiful eyes?"
+  },
+  {
+    "title": "Truth",
+    "description": "Do you know how to dance?"
+  }
+]

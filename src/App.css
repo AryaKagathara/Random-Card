@@ -7,7 +7,16 @@
 }
 
 body {
+  margin: 0;
+  padding: 0;
   font-family: 'CustomFont', sans-serif;
+  /* background: linear-gradient(45deg, #0F1340, #4B4696); */
+  background: #111;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  overflow: hidden;
 }
 
 .App {
@@ -15,67 +24,66 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  min-height: 100vh;
-  background: linear-gradient(45deg, #0F1340, #4B4696);
+  width: 100%;
+  max-width: 400px;
+  padding: 20px;
+  box-sizing: border-box;
+  height: 100vh; /* Ensure full height to center content */
 }
 
 .card-container {
-  position: relative;
-  margin-bottom: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   text-align: center;
+  width: 100%;
+  height: 100%;
 }
 
 .card {
-  position: relative;
-  width: 350px;
-  height: 525px;
+  width: 100%;
+  max-width: 350px;
+  text-align: center;
 }
 
 .card-image {
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 160px;
-  font-size: 40px; 
-  color: #FCEA27;
-  font-weight: bold;
-  text-align: center;
-  font-size: 28px;
-}
-
-.title-text {
-  position: absolute;
-  top: -80px;
   font-size: 40px;
-  font-weight: bold;
   color: #FCEA27;
-  text-align: center;
-  width: 100%;
-  font-family: 'CustomFont', sans-serif;
+  font-weight: bold;
+  margin-bottom: 20px; /* Space between image and description */
 }
 
 .description-text {
-  position: absolute;
-  width: 80%;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  font-size: 24px;
-  text-align: center;
-  color: #fff;
-  font-family: 'CustomFont', sans-serif;
+  font-size: 28px;
   font-weight: bold;
+  color: #ffffff;
+  padding: 0 10px;
+  box-sizing: border-box;
 }
 
 .actions {
   display: flex;
   justify-content: center;
-  gap: 10px;
+  gap: 20px;
 }
 
 .action-button {
-  z-index: 1000;
-  width: 70px;
-  height: 70px;
+  width: 60px;
+  height: 60px;
+  background: transparent;
   cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: transform 0.2s;
+}
+
+.action-button:hover {
+  transform: scale(1.2);
+}
+
+.action-button img {
+  width: 100%;
+  height: 100%;
 }

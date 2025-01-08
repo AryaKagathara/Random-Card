@@ -24,6 +24,27 @@ function App() {
       .catch((err) => console.error('Failed to copy text', err));
   };
 
+  // Keyboard event listener
+  const handleKeyDown = (e) => {
+    if (e.code === 'Space') {
+      e.preventDefault(); // Prevent default scrolling behavior for Spacebar
+      getRandomText();
+    } else if (e.ctrlKey && e.code === 'KeyC') {
+      e.preventDefault(); // Prevent default browser copy behavior
+      copyToClipboard();
+    }
+  };
+
+  // Add the keydown event listener when the component mounts
+  useEffect(() => {
+    window.addEventListener('keydown', handleKeyDown);
+
+    // Clean up the event listener when the component unmounts
+    return () => {
+      window.removeEventListener('keydown', handleKeyDown);
+    };
+  }, []);
+
   // Load a random text on component mount
   useEffect(() => {
     getRandomText();
@@ -32,7 +53,6 @@ function App() {
   return (
     <div className="App">
       <div className="card-container">
-        <div className="title-text">Truth & Dare</div>
         <div className="card">
           <div className="card-image">{text.title}</div>
           <div className="description-text">{text.description}</div>
